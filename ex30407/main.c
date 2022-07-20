@@ -14,6 +14,8 @@ int main()
         z = x;
         x = tmp;
 
+//arquivo modificado
+
     }
     if (x>y){
         int tmp = y;
